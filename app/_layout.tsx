@@ -4,7 +4,6 @@ import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
 import 'react-native-reanimated';
 import * as Updates from 'expo-updates';
-import { View } from 'react-native-reanimated/lib/typescript/Animated';
 
 SplashScreen.preventAutoHideAsync();
 
